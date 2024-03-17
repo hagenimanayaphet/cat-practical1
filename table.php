@@ -3,6 +3,7 @@
 <head> 
 <title> Table</title> 
 </head> 
+ //use clear language
 <body bgcolor="skyblue"> 
 <table border="1"> 
 <tr><td>ID</td><td>FirstName</td><td>Lastname</td><td>RegNo</td><td colspan="4">Operation
